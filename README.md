@@ -48,7 +48,7 @@
 ###
 <h3>
 <a href="https://www.credly.com/badges/21d6fadf-56bf-4fa8-b348-508936075b23/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Solutions Architect – Associate</b></a> <br>
-    <a href="https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url" target="_blank" rel="noopener noreferrer"><b>Cloud practitioner</b></a>  <br>
+    <a href="https://www.credly.com/badges/87a83926-24d9-4d27-9354-6913038555dd/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Cloud practitioner</b></a>  <br>
     <a href="https://www.credly.com/badges/494c56cf-0396-4f3d-9638-f284adaf7967/" target="_blank" rel="noopener noreferrer"><b>AWS Academy Cloud Foundations</b></a>
   <br>
     <a href="https://cutm-bbsr.codetantra.com/cert/certificate.jsp?certId=CT1740-tOaXfNA-cp" target="_blank" rel="noopener noreferrer"><b>Java Course</b></a> 
