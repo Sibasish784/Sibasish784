@@ -44,7 +44,7 @@
 • Library management system: A website which has everything to operate a library.<br>
 </h3>
 
-## 🎓Check My AWS Certificates🥇:
+## 🎓Check My Certificates🥇:
 ###
 <h3>
 <a href="https://www.credly.com/badges/21d6fadf-56bf-4fa8-b348-508936075b23/public_url" target="_blank" rel="noopener noreferrer"><b>AWS Certified Solutions Architect – Associate</b></a> <br>
