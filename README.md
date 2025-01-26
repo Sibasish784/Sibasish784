@@ -5,6 +5,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibasish784&" alt="sibasish784" /></p>
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Sibasish784&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
