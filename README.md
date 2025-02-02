@@ -1,6 +1,18 @@
 <h3 align="left">Hi there 👋<br>I'm 𝑺𝒊𝒃𝒂𝒔𝒊𝒔𝒉 💻 👀 A computer science engineer with a passion for web development, cloud computing ☁️📊. I have experience with Java, SQL, AWS, Canva, and WordPress 🐍☕. 🌱 I'm currently learning Cloud Computing 🤖🧠. 💞️ I'm looking for opportunities to work on challenging and impactful projects at a product-based company 🚀.<br>You can also look at my full profile <a href="https://sibasish784.github.io/sibasish/" target="_blank" rel="noopener noreferrer"><b>Here 😀</b></a></h3>
 
 <!-- <img align="center" height="150" src="https://github.com/AnsuSibasish/pic/blob/main/Sibasish.jpeg?raw=true"  /> -->
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sibasish784&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibasish784&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> 
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibasish784&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  
+  <br>
+
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sibasish784&theme=radical&no-frame=false&no-bg=true&margin-w=4)
